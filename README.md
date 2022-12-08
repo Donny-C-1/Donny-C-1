@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Donny-C-1
 - 👀 I’m interested in coding, gaming and learning new things
-- 🌱 I’m currently learning React native
+- 🌱 I’m currently learning web developmentt
 - 💞️ I’m looking to collaborate on Web development and javascript projects
 - 📫 Reach me on my email: chikwemdonald@gmail.com
 
