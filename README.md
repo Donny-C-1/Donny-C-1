@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <h1>Hello there, I'm [your name]</h1>
+  <img src="[insert an image of yourself or something you like]" width="200" />
+  <p>[briefly describe yourself and your interests]</p>
+</div>
+
 - 👋 Hi, I’m @Donny-C-1
 - 👀 I’m interested in coding, gaming and learning new things
 - 🌱 I’m currently learning web developmentt
