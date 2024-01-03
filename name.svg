@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="192.15453mm"
+   height="76.989052mm"
+   viewBox="0 0 192.15453 76.989052"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1193">
+      <stop
+         style="stop-color:#a20b4e;stop-opacity:1;"
+         offset="0"
+         id="stop1189" />
+      <stop
+         style="stop-color:#1c006f;stop-opacity:1;"
+         offset="1"
+         id="stop1191" />
+    </linearGradient>
+    <rect
+       x="87.432442"
+       y="377.93375"
+       width="654.33307"
+       height="102.94464"
+       id="rect400" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1193"
+       id="linearGradient1195"
+       x1="8.9547739"
+       y1="116.69472"
+       x2="164.54398"
+       y2="116.69472"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2350119,0,0,1.5803231,-5.1652903,-71.958395)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.8939625,-74.862753)">
+    <path
+       style="fill:url(#linearGradient1195);fill-opacity:1;fill-rule:evenodd;stroke-width:0.739267;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="M 34.463699,74.862755 H 198.04848 v 67.219315 c 0,0 -29.49135,-27.12358 -56.21787,-0.58964 -26.72653,26.53394 -69.273331,-6.2793 -69.273331,-6.2793 0,0 -21.98608,-5.01684 -35.459402,6.03954 C 17.053124,157.70165 5.8939626,130.87885 5.8939626,130.87885 V 75.452399 Z"
+       id="path236"
+       sodipodi:nodetypes="cccscsccc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.21708099,0,0,0.21708099,25.127878,20.446841)"
+       id="text398"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;line-height:0px;font-family:Gabriola;-inkscape-font-specification:'Gabriola Bold';letter-spacing:-4.32832px;word-spacing:-3.55488px;white-space:pre;shape-inside:url(#rect400);shape-padding:5.6408;fill:#38cec5;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"><tspan
+         x="93.072266"
+         y="401.04688"
+         id="tspan5197"><tspan
+           dx="0 0 0 3.5548766 -3.5548816 0 0 3.5548766 -3.5548892 0 0 0 0 3.5548613 -3.5548587"
+           style="font-weight:normal;font-family:Consolas;-inkscape-font-specification:Consolas"
+           id="tspan5195">Hi, I'm Donny C</tspan></tspan></text>
+  </g>
+</svg>

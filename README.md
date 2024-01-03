@@ -1,6 +1,7 @@
+
+<img src="./name.svg" alt="Hero image">
 <div id="header" align="center">
-  <h1>Hello there, I'm Donny C</h1>
-  <img src="[insert an image of yourself or something you like]" width="200" />
+  <h1>Hi I'm Donny C 👋</h1>
   <p>[briefly describe yourself and your interests]</p>
 </div>
 
@@ -52,13 +53,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg"  title="D3" alt="D3" width="40" height="40"/>&nbsp;
   <div>
-- 👋 Hi, I’m @Donny-C-1
-- 👀 I’m interested in coding, gaming and learning new things
-- 🌱 I’m currently learning web developmentt
-- 💞️ I’m looking to collaborate on Web development and javascript projects
-- 📫 Reach me on my email: chikwemdonald@gmail.com
-
-<!---
-Donny-C-1/Donny-C-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
