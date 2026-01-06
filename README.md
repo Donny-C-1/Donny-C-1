@@ -1,19 +1,10 @@
 
 <img src="./name.svg" alt="Hero image" width='100%' height='auto'/>
 
-<div style="display:flex">
-    <div style="flex:1">
-        <p>Software Developer</p>
-        <h1>Donny C</h1>
-    </div>
-    <div style="flex:1">
-    <img src="./images/profile_pic_github.png" width="100%" height="auto" />
-    </div>
-</div>
-
 <p>Fullstack web developer and tech nerd</p>
 <p>I enjoy learning new things and finding creative and simple ways to solve problems</p>
 
+## Top Languages
 ## Knowledge
 
 <div align="center">
