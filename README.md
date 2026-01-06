@@ -1,5 +1,5 @@
 
-<img src="./name.svg" alt="Hero image" width='100%' height='auto'/>
+<img src="./images/banner.webp" alt="Hero image" width='100%' height='auto'/>
 
 <p>Fullstack web developer and tech nerd</p>
 <p>I enjoy learning new things and finding creative and simple ways to solve problems</p>
