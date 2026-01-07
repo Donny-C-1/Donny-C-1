@@ -39,11 +39,15 @@
 ### :fire: My Stats:
 
 <div width="100%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donny-c-1&theme=tokyonight" alt="profile_summary" align="left" width="45%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donny-c-1&theme=tokyonight" alt="profile_summary" align="left" width="48%" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donny-c-1&theme=tokyonight" align="right" width="45%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donny-c-1&theme=tokyonight" align="right" width="48%" />
 </div>
 
+<br>
+<br>
+<br>
+<br>
 <br>
 
 <div>
@@ -54,7 +58,7 @@
 <br>
 
 <div width="100%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=donny-c-1&theme=tokyonight" align="left" width="45%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=donny-c-1&theme=tokyonight" align="left" width="48%" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donny-c-1&theme=tokyonight&utcOffset=8" align="right" width="45%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donny-c-1&theme=tokyonight&utcOffset=8" align="right" width="48%" />
 </div>
