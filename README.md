@@ -38,6 +38,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+---
+
 ### :fire: My Stats:
 
 <div>
@@ -46,7 +48,11 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donny-c-1&theme=tokyonight" align="right" />
 </div>
 
+<br><br>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donny-c-1&theme=tokyonight)
+
+<br><br>
 
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=donny-c-1&theme=tokyonight" align="left" />
