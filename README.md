@@ -1,10 +1,6 @@
 
 <img src="./images/banner.webp" alt="Hero image" width='100%' height='auto'/>
 
-<p>Fullstack web developer and tech nerd</p>
-<p>I enjoy learning new things and finding creative and simple ways to solve problems</p>
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -43,19 +39,32 @@
 ### :fire: My Stats:
 
 <div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donny-c-1&theme=tokyonight" alt="profile_summary" align="left" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donny-c-1&theme=tokyonight" alt="profile_summary" align="left" width="49%" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donny-c-1&theme=tokyonight" align="right" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donny-c-1&theme=tokyonight" align="right" width="49%" />
 </div>
 
-<br><br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donny-c-1&theme=tokyonight)
-
-<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=donny-c-1&theme=tokyonight" align="left" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donny-c-1&theme=tokyonight&utcOffset=8" align="right" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donny-c-1&theme=tokyonight" width="100%">
+
+</div>
+<br>
+
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=donny-c-1&theme=tokyonight" align="left" width="49% />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donny-c-1&theme=tokyonight&utcOffset=8" align="right" width="49%" />
 </div>
