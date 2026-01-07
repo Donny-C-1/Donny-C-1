@@ -45,26 +45,13 @@
 </div>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donny-c-1&theme=tokyonight" width="100%">
 
-</div>
 <br>
 
 <div width="100%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=donny-c-1&theme=tokyonight" align="left" width="47%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=donny-c-1&theme=tokyonight" align="left" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donny-c-1&theme=tokyonight&utcOffset=8" align="right" width="47%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donny-c-1&theme=tokyonight&utcOffset=8" align="right" />
 </div>
