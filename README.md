@@ -39,9 +39,9 @@
 ### :fire: My Stats:
 
 <div width="100%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donny-c-1&theme=tokyonight" alt="profile_summary" align="left" width="47%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donny-c-1&theme=tokyonight" alt="profile_summary" align="left" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donny-c-1&theme=tokyonight" align="right" width="47%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donny-c-1&theme=tokyonight" align="right" />
 </div>
 
 <br>
